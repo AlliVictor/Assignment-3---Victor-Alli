@@ -1,7 +1,7 @@
 body
 {
     background-color: AntiqueWhite;
-}     
+}    
 
 #hobbies
 {
@@ -15,21 +15,25 @@ body
     background-color: BurlyWood;
 }
 
-.card{
+.card
+{
     margin-bottom: 10px;
 }
 
-#about img {
+#about img 
+{
     height: auto;
     width: 300px;
 }
 
-#about-text {
+#about-text 
+{
     width: 550px;
     text-align: center;
 }
 
-#main {
+#main
+{
     width: 1130px;
     max-width: 95%;
     margin: 0 auto;
@@ -38,22 +42,26 @@ body
     justify-content: space-around;
 }
 
-#about-text h2 {
+#about-text h2 
+{
     color: black;
     font-size: 40px;
     text-transform: capitalize;
     margin-bottom: 20px;
 }
 
-#about-text h3 {
+#about-text h3 
+{
     color: black;
 }
 
-#about-text h4 {
+#about-text h4 
+{
     color: black;
 }
 
-#about-text p {
+#about-text p 
+{
     color: black;
     letter-spacing: 1px;
     line-height: 28px;
@@ -66,7 +74,8 @@ body
     margin-bottom: 50px;
 }
 
-form {
+form 
+{
     border: 2px solid BurlyWood;
     border-radius: 10px;
     background-color: Bisque;
@@ -74,19 +83,20 @@ form {
     width: 50%;
 }
 
-#button {
+#button 
+{
     display: flex;
     justify-content: center;
     align-items: center;
     margin-bottom: 5px;
-  }
+}
 
-  #line
-  {
+#line
+{
     margin-top: 20px;
     background-color: BurlyWood;
     height: 10px;
     width: 100%;
-  }
+}
 
   
